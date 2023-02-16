@@ -1,3 +1,3 @@
-Currently working on a startup social media app
+Currently learning Assembly, Web Development, and collaboratively making an Event Manager app on the Frontend
 
-S/O Data Structures & Algorithms
+S/O to the Scrum process
